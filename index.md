@@ -11,7 +11,7 @@ Hello Asia
 x = ('a', 1, False)
 {% endhighlight %}
 
-{% highlight VB %}
+{% highlight Visualbasic %}
 if x = 1+aaa() then
 	x=aaa()
 fi
