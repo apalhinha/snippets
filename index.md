@@ -7,5 +7,6 @@ Hello Europe
 ## Asia
 Hello Asia
 
-```Java
-if (1=2) then Hello2()
+{% highlight python %}
+x = ('a', 1, False)
+{% endhighlight %}
