@@ -12,5 +12,7 @@ x = ('a', 1, False)
 {% endhighlight %}
 
 {% highlight VB %}
-x = 1+aaa()
+if x = 1+aaa() then
+	x=aaa()
+fi
 {% endhighlight %}
