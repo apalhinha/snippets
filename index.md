@@ -10,3 +10,7 @@ Hello Asia
 {% highlight python %}
 x = ('a', 1, False)
 {% endhighlight %}
+
+{% highlight VB %}
+x = 1+aaa()
+{% endhighlight %}
