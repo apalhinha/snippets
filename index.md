@@ -8,4 +8,4 @@ Hello Europe
 Hello Asia
 
 ```Visual basic
-if (1=2) then Hello()
+if (1=2) then Hello2()
