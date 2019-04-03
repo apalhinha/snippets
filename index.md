@@ -4,6 +4,17 @@ title: Welcome
 # Example page
 This is a ready-to-use GitHub pages site
 
+An example of an ordered list
+# One
+# Two
+
+An example of an unordered list
+- One
+- Two
+- Three
+  - Three dot one
+  
+  
 {% highlight python %}
 // Python
 x = ('a', 1, False)
