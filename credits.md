@@ -5,4 +5,4 @@ title: Credits
 This is an experiment
 With credits
 
-One can [navidate back](indexo.md)
+One can [navidate back](index.md)
