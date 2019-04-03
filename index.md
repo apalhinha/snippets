@@ -5,8 +5,8 @@ title: Welcome
 This is a ready-to-use GitHub pages site
 
 An example of an ordered list
-1 One
-1 Two
+1. One
+1. Two
 
 An example of an unordered list
 - One
