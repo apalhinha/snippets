@@ -15,7 +15,6 @@ An example of an unordered list
   - Three dot one
   
 And an example of highlighted code
-
 {% highlight visualbasic %}
 ' some script
 if x = 1+aaa() then
