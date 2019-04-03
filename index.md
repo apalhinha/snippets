@@ -1,4 +1,7 @@
-# Example
+---
+title: Welcome
+---
+# Example page
 Hello world
 
 ## Europe
@@ -6,6 +9,9 @@ Hello Europe
 
 ## Asia
 Hello Asia
+
+# Mars
+(no continents nor countries)
 
 {% highlight python %}
 x = ('a', 1, False)

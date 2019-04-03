@@ -1,6 +1,7 @@
 ---
+title: Credits
 ---
-# Context
+# About the author
 This is an experiment
 With credits
 
