@@ -16,3 +16,5 @@ if x = 1+aaa() then
 	x=aaa()
 fi
 {% endhighlight %}
+
+And links [do work](credits.md)
