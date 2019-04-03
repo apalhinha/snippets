@@ -14,17 +14,14 @@ An example of an unordered list
 - Three
   - Three dot one
   
-  
-{% highlight python %}
-// Python
-x = ('a', 1, False)
-{% endhighlight %}
+And an example of highlighted code
 
 {% highlight visualbasic %}
-' Visual basic
+' some script
 if x = 1+aaa() then
 	x=aaa()
 fi
 {% endhighlight %}
 
+That's it
 [Credits](credits.md)
